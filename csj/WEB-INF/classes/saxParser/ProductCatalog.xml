@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductCatalog>
+    <product id="001" retailer="GameSpeed">
+        <image>/csj/img/samsung.png</image>
+        <name>Samsung</name>
+        <category>TV</category>
+        <price>399</price>
+        <quantity>0</quantity>
+        <total>0</total>
+        <username>0</username>
+        <orderstatus>Pending...</orderstatus>
+        <date></date>
+        <expectedDelivery>20</expectedDelivery>
+        <accessories>
+            <accessory>Tv Remote</accessory>
+        </accessories>
+    </product>
+    <product id="002" retailer="GameSpeed">
+        <image>/csj/img/iphone7.jpeg</image>
+        <name>Iphone 7</name>
+        <category>Smartphones</category>
+        <price>899</price>
+        <quantity>0</quantity>
+        <total>0</total>
+        <username>0</username>
+        <orderstatus>Pending...</orderstatus>
+        <date></date>
+        <expectedDelivery>20</expectedDelivery>
+        <accessories>
+            <accessory>Phone Case</accessory>
+        </accessories>
+    </product>
+    <product id="003" retailer="GameSpeed">
+        <image>/csj/img/ipad.jpeg</image>
+        <name>Ipad mini 4</name>
+        <category>Tablets</category>
+        <price>399</price>
+        <quantity>0</quantity>
+        <total>0</total>
+        <username>0</username>
+        <orderstatus>Pending...</orderstatus>
+        <date></date>
+        <expectedDelivery>20</expectedDelivery>
+        <accessories>
+            <accessory>Ipad Case</accessory>
+        </accessories>
+    </product>
+    <product id="004" retailer="GameSpeed">
+        <image>/csj/img/macbookPro.jpeg</image>
+        <name>Mac Pro</name>
+        <category>Laptop</category>
+        <price>899</price>
+        <quantity>0</quantity>
+        <total>0</total>
+        <username>0</username>
+        <orderstatus>Pending...</orderstatus>
+        <date></date>
+        <expectedDelivery>20</expectedDelivery>
+        <accessories>
+            <accessory>Laptop Sleeve</accessory>
+        </accessories>
+    </product>
+    <product id="005" retailer="GameSpeed">
+        <image>/csj/img/tvremote.jpg</image>
+        <name>Tv Remote</name>
+        <category>TV accessory</category>
+        <price>59</price>
+        <quantity>0</quantity>
+        <total>0</total>
+        <username>0</username>
+        <orderstatus>Pending...</orderstatus>
+        <date></date>
+        <expectedDelivery>20</expectedDelivery>
+        <accessories>
+            <accessory>No Related Accesories</accessory>
+        </accessories>
+    </product>
+    <product id="006" retailer="GameSpeed">
+        <image>/csj/img/phonecase.jpeg</image>
+        <name>Phone Case</name>
+        <category>Smartphones accessory</category>
+        <price>699</price>
+        <quantity>0</quantity>
+        <total>0</total>
+        <username>0</username>
+        <orderstatus>Pending...</orderstatus>
+        <date></date>
+        <expectedDelivery>20</expectedDelivery>
+        <accessories>
+            <accessory>No Related Accesories</accessory>
+        </accessories>
+    </product>
+    <product id="007" retailer="GameSpeed">
+        <image>/csj/img/ipadcase.jpg</image>
+        <name>Ipad Case</name>
+        <category>Tablets accessory</category>
+        <price>99</price>
+        <quantity>0</quantity>
+        <total>0</total>
+        <username>0</username>
+        <orderstatus>Pending...</orderstatus>
+        <date></date>
+        <expectedDelivery>20</expectedDelivery>
+        <accessories>
+            <accessory>No Related Accesories</accessory>
+        </accessories>
+    </product>
+    <product id="008" retailer="GameSpeed">
+        <image>/csj/img/laptopsleeve.jpg</image>
+        <name>Laptop Sleeve</name>
+        <category>Laptop accessory</category>
+        <price>199</price>
+        <quantity>0</quantity>
+        <total>0</total>
+        <username>0</username>
+        <orderstatus>Pending...</orderstatus>
+        <date></date>
+        <expectedDelivery>20</expectedDelivery>
+        <accessories>
+            <accessory>No Related Accesories</accessory>
+        </accessories>
+    </product>
+
+</ProductCatalog>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HotelCatalog>
+    <room id="001">
+        <image>/csj/img/standard.jpg</image>
+        <roomdescription>This is a Standard Room</roomdescription>
+        <roomtype>Standard</roomtype>
+        <price>100</price>
+        <quantity>100</quantity>
+    </room>
+    <room id="002">
+        <image>/csj/img/deluxe.jpg</image>
+        <roomdescription>This is a Deluxe Room</roomdescription>
+        <roomtype>Deluxe</roomtype>
+        <price>200</price>
+        <quantity>100</quantity>
+    </room>
+    <room id="003">
+        <image>/csj/img/1.jpg</image>
+        <roomdescription>This is a Luxury Room</roomdescription>
+        <roomtype>Luxury</roomtype>
+        <price>500</price>
+        <quantity>50</quantity>
+    </room>
+    <room id="004">
+        <image>/csj/img/standard2.jpg</image>
+        <roomdescription>This is a Presidential Suite</roomdescription>
+        <roomtype>Presidential Suite</roomtype>
+        <price>1000</price>
+        <quantity>50</quantity>
+    </room>
+</HotelCatalog>
