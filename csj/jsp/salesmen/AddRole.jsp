@@ -41,7 +41,7 @@ if(null == (String)username){
     "  <option value=Salesmen>Salesmen</option>\n" +
     "  <option value=Admin>Admin</option><br>\n" +
     "  <select>\n" +
-    "  <br><br><input type=submit value=Submit>\n" +
+    "  <br><br><button class=\"btn btn-success btn-sm\"  type=submit value=Submit>Submit</button>\n" +
     "<center>" +
     "</ul>\n" +
     "</form></html>");

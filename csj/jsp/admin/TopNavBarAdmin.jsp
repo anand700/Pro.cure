@@ -40,7 +40,7 @@ if(null != request.getAttribute("typeOfUser")){
     <%
 }else{
     %>
-    <a class="navbar-brand" href="#page-top">Touch of Modern</a>
+    <a class="navbar-brand" href="#page-top">Pro.cure</a>
     <%
 }
 %>

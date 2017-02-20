@@ -30,8 +30,8 @@
 <!-- <link href="/csj/css/simple-sidebar.css" rel="stylesheet"> -->
 <html>
 <center>
-<head><title>Touch of Modern</title></head>
-<h1>Touch of Modern</h1>
+<head><title>Pro.cure</title></head>
+<h1>Pro.cure</h1>
 <div ng-app="app" ng-controller="ctrl" ng-cloak>
     <form name="passwordForm" action=/csj/jsp/LoginValidate.jsp >
       <div class="control-group">

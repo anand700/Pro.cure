@@ -154,7 +154,7 @@ if(null == (String)username){
         "  Order Status : <input type=text name=orderStatus value='"+p1.getOrderStatus()+"'><br>\n" +
         "  Image URL : <input type=text name=image value='"+p1.getImage()+"'><br>\n" +
         "  Ordered Date : <input type=text name=date value='"+p1.getDate()+"'><br>\n" +
-        "  <input type=submit value=Confirm>\n" +
+        "  <button class=\"btn btn-success btn-sm\" type=submit value=Confirm>Submit</button>\n" +
         "<center>" +
         "</ul>\n" +
         "</form>" +
@@ -193,7 +193,7 @@ if(null == (String)username){
         "  <input type=text name=price value='"+p1.getPrice()+"' readonly><br>\n" +
         "  <input type=text name=quantity value='"+p1.getQuantity()+"' readonly ><br>\n" +
         "  <input type=text name=username value='"+p1.getUsername()+"' readonly><br>\n" +
-        "  <input type=submit value=Confirm>\n" +
+        "  <button class=\"btn btn-success btn-sm\" type=submit value=Confirm>Submit</button>\n" +
         "<center>" +
         "</ul>\n" +
         "</form>" +

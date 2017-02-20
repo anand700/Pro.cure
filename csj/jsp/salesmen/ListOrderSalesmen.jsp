@@ -31,7 +31,7 @@ if(null == (String)username){
     out.println("<html>");
     out.println("<head>");
     out.println("<meta http-equiv=Content-Type content=text/html charset=utf-8 />");
-    out.println("<title> Touch Of Modern </title>");
+    out.println("<title> Pro.cure </title>");
     out.println("<link rel=stylesheet href=styles.css type=text/css />");
     
     //out.println("<script src=http://html5shiv.googlecode.com/svn/trunk/html5.js></script>");
@@ -93,9 +93,9 @@ if(null == (String)username){
         out.println("<li>"+"OrderStatus : "+m.getValue().getOrderStatus()+"");out.println("</li>");
         out.println("<li>"+"Date Of Order : "+m.getValue().getDate()+"");out.println("</li>");
         out.println("<li>"+"ExpectedArrival : "+m.getValue().getExpectedDelivery()+"");out.println("</li>");
-        out.println("<button  type=submit name=Delete value="+m.getValue().getId()+">Cancel Order</button>");
-        out.println("<button  type=submit name=Delete value="+m.getValue().getId()+">Remove from Cart</button>");
-        out.println("<button  type=submit name=Order value="+m.getValue().getId()+">Order</button><br><br>");
+        out.println("<button  button class=\"btn btn-success btn-sm\" type=submit name=Delete value="+m.getValue().getId()+">Cancel Order</button>");
+        out.println("<button  button class=\"btn btn-success btn-sm\" type=submit name=Delete value="+m.getValue().getId()+">Remove from Cart</button>");
+        out.println("<button  button class=\"btn btn-success btn-sm\" type=submit name=Order value="+m.getValue().getId()+">Order</button><br><br>");
         out.println("</form><br><br>");
         
         out.println("</ul>");

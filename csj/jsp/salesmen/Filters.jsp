@@ -44,7 +44,7 @@ if(null == (String)username){
     out.println("<html>");
     out.println("<head>");
     out.println("<meta http-equiv=Content-Type content=text/html charset=utf-8 />");
-    out.println("<title> Touch Of Modern </title>");
+    out.println("<title> Pro.cure </title>");
     out.println("<link rel=stylesheet href=styles.css type=text/css />");
     
     //out.println("<script src=http://html5shiv.googlecode.com/svn/trunk/html5.js></script>");
@@ -85,7 +85,7 @@ if(null == (String)username){
         <option ng-repeat="option in FilterOptions.availableOptions" value="{{option.id}}">{{option.name}}</option>
       </select>
       <br><br><br><br>
-      <input type=submit value=Search>
+      <button class="btn btn-success btn-sm" type=submit value=Search>Submit</button>
     </form>
     <br>
   </div>

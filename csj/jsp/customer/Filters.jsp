@@ -44,7 +44,7 @@ if(null == (String)username){
     out.println("<html>");
     out.println("<head>");
     out.println("<meta http-equiv=Content-Type content=text/html charset=utf-8 />");
-    out.println("<title> Touch Of Modern </title>");
+    out.println("<title> Pro.cure </title>");
     out.println("<link rel=stylesheet href=styles.css type=text/css />");
     
     //out.println("<script src=http://html5shiv.googlecode.com/svn/trunk/html5.js></script>");

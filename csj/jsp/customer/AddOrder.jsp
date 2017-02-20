@@ -271,7 +271,7 @@ if(null == (String)username){
         "<!doctype html public \"-//w3c//dtd html 4.0 " +
         "transitional//en\">\n";
         out.println(docType +
-        "<html><br><br><br><br>" +
+        "<html><br><br><br><br><br><br>" +
         "<head>" +
         "<meta http-equiv=Content-Type content=text/html charset=utf-8 />" +
         "<title> "+title+" </title>" +
@@ -307,7 +307,7 @@ if(null == (String)username){
         "  <input  type=text name=ReviewRating placeholder='Review Rating'><br>\n" +
         "  <input  type=text name=ReviewDate value='"+df.format(dt)+"' readonly><br><br>\n" +
         "  <textarea type=text size='14' name=ReviewText placeholder='Review Text' ></textarea><br><br>\n" +
-        "  <input  type=submit value=Confirm>\n" +
+        "  <button class=\"btn btn-success btn-sm\" type=submit value=Confirm>Submit</button>\n" +
         "<center>" +
         "</ul>\n" +
         "</form>" +
@@ -348,7 +348,7 @@ if(null == (String)username){
         //out.println("<br><br><br><br><br><br><br><br>");
         out.println("<head>");
         out.println("<meta http-equiv=Content-Type content=text/html charset=utf-8 />");
-        out.println("<title> Touch Of Modern </title>");
+        out.println("<title> Pro.cure </title>");
         out.println("<link rel=stylesheet href=styles.css type=text/css />");
         //out.println("<script src=http://html5shiv.googlecode.com/svn/trunk/html5.js></script>");
         
